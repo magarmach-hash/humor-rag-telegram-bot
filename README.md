@@ -1,4 +1,4 @@
-# 😂 Humor Generator — RAG + Hugging Face + Telegram Bot  
+# Humor Generator — RAG + Hugging Face + Telegram Bot  
 
 ---
 
@@ -89,7 +89,7 @@ HUGGINGFACEHUB_API_TOKEN=hf_your_huggingface_token
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token
 ```
 
-> 🪄 Get your Telegram token from [@BotFather](https://t.me/BotFather)
+> Get your Telegram token from [@BotFather](https://t.me/BotFather)
 
 ### 4️⃣ Run the Bot
 
