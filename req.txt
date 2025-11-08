@@ -1,0 +1,8 @@
+streamlit>=1.18
+pandas
+sentence-transformers>=2.2.2
+faiss-cpu   
+transformers>=4.30.0
+langchain-huggingface
+torch   
+python-dotenv
